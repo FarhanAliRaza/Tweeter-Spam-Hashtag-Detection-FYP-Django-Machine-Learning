@@ -1,0 +1,8 @@
+[
+    {
+        "name": "#KashmirBleeds",
+        "total": 20,
+        "spammer": 5,
+        "per": "25.0%"
+    }
+]

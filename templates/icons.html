@@ -1,0 +1,91 @@
+{% extends 'layouts/base.html' %}
+
+{% block title %} Icons {% endblock title %}
+
+<!-- Specific CSS goes HERE -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+    <!-- Header -->
+    <div class="header bg-gradient-primary pb-8 pt-5 pt-md-8">
+      <div class="container-fluid">
+        <div class="header-body">
+          <!-- Card stats -->
+          <div class="row">
+      
+            
+            
+            <div class="col-xl-3 col-lg-6">
+              <div class="card card-stats mb-4 mb-xl-0">
+                <div class="card-body">
+                  <div class="row">
+                    <div class="col">
+                      <h5 class="card-title text-uppercase text-muted mb-0">Total Hastags</h5>
+                      <span class="h2 font-weight-bold mb-0"></span>
+                    </div>
+                    <div class="col-auto">
+                      <div class="icon icon-shape bg-info text-white rounded-circle shadow">
+                        <span class="h2 font-weight-bold mb-0">{{t}}</span>
+                      </div>
+                    </div>
+                  </div>
+                  <p class="mt-3 mb-0 text-muted text-sm">
+                    <span class="text-success mr-2"></span>
+                    <span class="text-nowrap"></span>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid mt--7">
+
+      <div class="row">
+        <div class="col">
+          <div class="card shadow">
+            <div class="card-header bg-transparent">
+              <h3 class="mb-0">Spammer Tweets</h3>
+            </div>
+            {% for obj in obj_list %}
+            <div class="card-body">
+              <div class="row icon-examples">
+              
+                <div class="container-fluid">
+                    <div>
+                    <div class = "container-fluid">
+                      User_ID = {{obj.user_id}}
+                    </div>
+                    <div class = "container-fluid">
+                      Screen_Name = {{obj.name}}
+                    </div>
+                    <div class = "container-fluid">
+                      Location = {{obj.location}}
+                    </div>
+                    <div class = "container-fluid">
+                    <a href="https://twitter.com/edent/status/{{obj.msg_id}}">
+                      Tweet_ID = {{obj.msg_id}}
+                    </a>
+                    </div>
+                    </div>
+
+                </div>
+                
+              </div>
+            </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+
+      {% include "includes/footer.html" %}
+
+    </div>
+
+{% endblock content %}
+
+<!-- Specific JS goes HERE --> 
+{% block javascripts %}{% endblock javascripts %}

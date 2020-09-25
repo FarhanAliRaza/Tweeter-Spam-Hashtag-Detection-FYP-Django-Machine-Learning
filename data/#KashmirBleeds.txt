@@ -1,0 +1,4519 @@
+[
+    {
+        "created_at": "Thu Jul 16 13:50:37 +0000 2020",
+        "id": 1283760955659296769,
+        "id_str": "1283760955659296769",
+        "text": "RT @azim_nishat: These two are the Traitors of Muslim Ummah\u263b\ud83d\ude08\nOne had sold #Palestine\nThe other has sold #Kashmir\n#FreePalestine\n#FreeKashm\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Palestine",
+                    "indices": [
+                        75,
+                        85
+                    ]
+                },
+                {
+                    "text": "Kashmir",
+                    "indices": [
+                        105,
+                        113
+                    ]
+                },
+                {
+                    "text": "FreePalestine",
+                    "indices": [
+                        114,
+                        128
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "azim_nishat",
+                    "name": "Malik Nishat Azim",
+                    "id": 728269184665292801,
+                    "id_str": "728269184665292801",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1226568407300083713,
+            "id_str": "1226568407300083713",
+            "name": "Hammad Ahmad",
+            "screen_name": "Hafiz_Lion",
+            "location": "Lahore, Pakistan",
+            "description": "Lion of PMLN",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1354,
+            "friends_count": 807,
+            "listed_count": 0,
+            "created_at": "Sun Feb 09 18:08:03 +0000 2020",
+            "favourites_count": 23681,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 11950,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275391658151104513/HKjWNf39_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275391658151104513/HKjWNf39_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1226568407300083713/1586587453",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 09:42:09 +0000 2020",
+            "id": 1283698425511456768,
+            "id_str": "1283698425511456768",
+            "text": "These two are the Traitors of Muslim Ummah\u263b\ud83d\ude08\nOne had sold #Palestine\nThe other has sold #Kashmir\n#FreePalestine\u2026 https://t.co/HycaysHLVm",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Palestine",
+                        "indices": [
+                            58,
+                            68
+                        ]
+                    },
+                    {
+                        "text": "Kashmir",
+                        "indices": [
+                            88,
+                            96
+                        ]
+                    },
+                    {
+                        "text": "FreePalestine",
+                        "indices": [
+                            97,
+                            111
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HycaysHLVm",
+                        "expanded_url": "https://twitter.com/i/web/status/1283698425511456768",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 728269184665292801,
+                "id_str": "728269184665292801",
+                "name": "Malik Nishat Azim",
+                "screen_name": "azim_nishat",
+                "location": "Pakistan",
+                "description": "Man was born free but he is in chains everywhere\u2757\nEngineer, Entrepreneur, Political Scientist and a Crusader for Civil Freedoms. Nawaz Sharif - a living Legend\u2757",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9226,
+                "friends_count": 9793,
+                "listed_count": 1,
+                "created_at": "Thu May 05 17:04:39 +0000 2016",
+                "favourites_count": 37952,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 36471,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1268893261399293953/gMq4TN3D_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268893261399293953/gMq4TN3D_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/728269184665292801/1545065664",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 46,
+            "favorite_count": 46,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 46,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:35:07 +0000 2020",
+        "id": 1283757056433037312,
+        "id_str": "1283757056433037312",
+        "text": "RT @azim_nishat: These two are the Traitors of Muslim Ummah\u263b\ud83d\ude08\nOne had sold #Palestine\nThe other has sold #Kashmir\n#FreePalestine\n#FreeKashm\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Palestine",
+                    "indices": [
+                        75,
+                        85
+                    ]
+                },
+                {
+                    "text": "Kashmir",
+                    "indices": [
+                        105,
+                        113
+                    ]
+                },
+                {
+                    "text": "FreePalestine",
+                    "indices": [
+                        114,
+                        128
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "azim_nishat",
+                    "name": "Malik Nishat Azim",
+                    "id": 728269184665292801,
+                    "id_str": "728269184665292801",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 959317958127337473,
+            "id_str": "959317958127337473",
+            "name": "\u0645\u0633\u0679\u0646\u0688\u0627 \u067e\u0679\u0648\u0627\u0631\u06cc \u0627\u0646 UK",
+            "screen_name": "m030008463323",
+            "location": "\u0644\u0627\u06c1\u0648\u0631, \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+            "description": "\u200f\u0645\u0645\u0628\u0631 \u0645\u0631\u06a9\u0632\u06cc \u0633\u0648\u0634\u0644 \u0645\u06cc\u0688\u06cc\u0627 \u0633\u06cc\u0644 \u0645\u0633\u0644\u0645 \u0644\u06cc\u06af \u0646  \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 34139,
+            "friends_count": 7575,
+            "listed_count": 5,
+            "created_at": "Fri Feb 02 06:49:59 +0000 2018",
+            "favourites_count": 136433,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 146622,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1255028575222353920/rcK4N0xV_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1255028575222353920/rcK4N0xV_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/959317958127337473/1570604084",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 09:42:09 +0000 2020",
+            "id": 1283698425511456768,
+            "id_str": "1283698425511456768",
+            "text": "These two are the Traitors of Muslim Ummah\u263b\ud83d\ude08\nOne had sold #Palestine\nThe other has sold #Kashmir\n#FreePalestine\u2026 https://t.co/HycaysHLVm",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Palestine",
+                        "indices": [
+                            58,
+                            68
+                        ]
+                    },
+                    {
+                        "text": "Kashmir",
+                        "indices": [
+                            88,
+                            96
+                        ]
+                    },
+                    {
+                        "text": "FreePalestine",
+                        "indices": [
+                            97,
+                            111
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HycaysHLVm",
+                        "expanded_url": "https://twitter.com/i/web/status/1283698425511456768",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 728269184665292801,
+                "id_str": "728269184665292801",
+                "name": "Malik Nishat Azim",
+                "screen_name": "azim_nishat",
+                "location": "Pakistan",
+                "description": "Man was born free but he is in chains everywhere\u2757\nEngineer, Entrepreneur, Political Scientist and a Crusader for Civil Freedoms. Nawaz Sharif - a living Legend\u2757",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9226,
+                "friends_count": 9793,
+                "listed_count": 1,
+                "created_at": "Thu May 05 17:04:39 +0000 2016",
+                "favourites_count": 37952,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 36471,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1268893261399293953/gMq4TN3D_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268893261399293953/gMq4TN3D_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/728269184665292801/1545065664",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 46,
+            "favorite_count": 46,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 46,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:31:53 +0000 2020",
+        "id": 1283756239625871360,
+        "id_str": "1283756239625871360",
+        "text": "RT @Skyflygirl2: \"\u06cc\u06c1 \u062d\u06cc\u0627\u062a \u0648 \u0645\u0648\u062a \u06a9\u0627 \u0645\u0639\u0631\u06a9\u06c1\n\u062c\u0648 \u0628\u0634\u06a9\u0644 \u0638\u0644\u0645\u062a \u0648 \u0646\u0648\u0631 \u06c1\u06d2\n\u0645\u0631\u06d2 \u06a9\u0627\u0634\u0645\u0631 \u06a9\u06d2 \u0645\u062d\u0627\u0630 \u067e\u0631\n\u0646\u0626\u06cc \u06a9\u0631\u0628\u0644\u0627 \u06a9\u0627 \u0638\u06c1\u0648\u0631 \u06c1\u06d2\"#KashmirBleeds\n#KashmiriLivesMatte\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KashmirBleeds",
+                    "indices": [
+                        105,
+                        119
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "Skyflygirl2",
+                    "name": "Sky Starr",
+                    "id": 1268969506052898817,
+                    "id_str": "1268969506052898817",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "ur",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1224391706843471873,
+            "id_str": "1224391706843471873",
+            "name": "Azadi E Kashmir",
+            "screen_name": "111PST",
+            "location": "\u0646\u06a9\u06cc\u0627\u0644 \u06a9\u0648\u0679\u0644\u06cc \u0622\u0632\u0627\u062f\u06a9\u0634\u0645\u06cc\u0631",
+            "description": "\u200f\u0641\u0627\u0644\u0648 \u06a9\u0631\u06cc\u06ba \u0641\u0627\u0644\u0648 \u0628\u06cc\u06a9 \u0644\u06cc\u06ba\n\u0679\u0648\u06cc\u0679 \u06a9\u0648 \u0644\u0627\u0678\u06a9 \u0631\u06cc\u0679\u0648\u06cc\u0679 \u06a9\u0631\u0646\u0627 \u0646\u06c1 \u0628\u06be\u0648\u0644\u06cc\u06ba\u06d4\n\u0641\u0627\u0644\u0648\u0644\u06d2\u06a9\u0631 \u0627\u0646\u0641\u0627\u0644\u0648\u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u06d2\u06a9\u0648 \u0628\u0644\u0627\u06a9 \u0627\u0648\u0631 \u0631\u067e\u0648\u0631\u0679 \u0628\u06be\u06cc \u06a9\u06cc\u0627\u062c\u0627\u0633\u06a9\u062a\u0627\u06c1\u06d2",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3798,
+            "friends_count": 4771,
+            "listed_count": 0,
+            "created_at": "Mon Feb 03 17:59:20 +0000 2020",
+            "favourites_count": 17927,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 23809,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1224394188436930560/UEp0dudH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224394188436930560/UEp0dudH_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 02 10:02:04 +0000 2020",
+            "id": 1278630010363023363,
+            "id_str": "1278630010363023363",
+            "text": "\"\u06cc\u06c1 \u062d\u06cc\u0627\u062a \u0648 \u0645\u0648\u062a \u06a9\u0627 \u0645\u0639\u0631\u06a9\u06c1\n\u062c\u0648 \u0628\u0634\u06a9\u0644 \u0638\u0644\u0645\u062a \u0648 \u0646\u0648\u0631 \u06c1\u06d2\n\u0645\u0631\u06d2 \u06a9\u0627\u0634\u0645\u0631 \u06a9\u06d2 \u0645\u062d\u0627\u0630 \u067e\u0631\n\u0646\u0626\u06cc \u06a9\u0631\u0628\u0644\u0627 \u06a9\u0627 \u0638\u06c1\u0648\u0631 \u06c1\u06d2\"#KashmirBleeds\u2026 https://t.co/dXiHRht3cD",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "KashmirBleeds",
+                        "indices": [
+                            88,
+                            102
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/dXiHRht3cD",
+                        "expanded_url": "https://twitter.com/i/web/status/1278630010363023363",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            104,
+                            127
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ur",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1268969506052898817,
+                "id_str": "1268969506052898817",
+                "name": "Sky Starr",
+                "screen_name": "Skyflygirl2",
+                "location": "",
+                "description": "\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u0627\u0648\u0631 \u0645\u06cc\u06ba \u062c\u0628 \u0628\u06d2 \u0627\u0639\u062a\u0646\u0627\u0626\u06cc \u0628\u0631\u062a\u0646\u06d2 \u067e\u0631 \u0622\u0624\u06ba \u062a\u0648 \u0645\u062c\u06be\u06d2 \u06a9\u0648\u0626\u06cc \u0641\u0631\u0642 \u0646\u06c1\u06cc\u06ba \u067e\u0691\u06d2 \u06af\u0627 \u06a9\u06c1 \u0622\u067e \u0645\u06cc\u0631\u06cc \u0632\u0646\u062f\u06af\u06cc \u0645\u06cc\u06ba \u0686\u0627\u06c1\u062a \u06a9\u06d2 \u06a9\u0633 \u0645\u0642\u0627\u0645 \u067e\u0631 \u06c1\u06cc\u06ba.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 666,
+                "friends_count": 442,
+                "listed_count": 0,
+                "created_at": "Fri Jun 05 18:14:57 +0000 2020",
+                "favourites_count": 51,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 177,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1283392536501985280/-r3s9MJa_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283392536501985280/-r3s9MJa_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268969506052898817/1594390659",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 34,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ur"
+        },
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ur"
+    },
+    {
+        "created_at": "Thu Jul 16 13:28:58 +0000 2020",
+        "id": 1283755507866406913,
+        "id_str": "1283755507866406913",
+        "text": "RT @annavetticad: The cruelty being shown to #VaravaraRao and so many other activists/artists/journalists/students will come back to bite t\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "VaravaraRao",
+                    "indices": [
+                        45,
+                        57
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "annavetticad",
+                    "name": "Anna MM Vetticad",
+                    "id": 64526820,
+                    "id_str": "64526820",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 116502121,
+            "id_str": "116502121",
+            "name": "Steve",
+            "screen_name": "SteveUnknown",
+            "location": "",
+            "description": "It all falls into place... Eventually :)",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1145,
+            "friends_count": 73,
+            "listed_count": 14,
+            "created_at": "Mon Feb 22 17:53:08 +0000 2010",
+            "favourites_count": 18753,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 50563,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1272866614887792640/rgEZVAaC_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272866614887792640/rgEZVAaC_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/116502121/1592310027",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 13:27:56 +0000 2020",
+            "id": 1283755246439694337,
+            "id_str": "1283755246439694337",
+            "text": "The cruelty being shown to #VaravaraRao and so many other activists/artists/journalists/students will come back to\u2026 https://t.co/sbLWDbr3fS",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "VaravaraRao",
+                        "indices": [
+                            27,
+                            39
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/sbLWDbr3fS",
+                        "expanded_url": "https://twitter.com/i/web/status/1283755246439694337",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 64526820,
+                "id_str": "64526820",
+                "name": "Anna MM Vetticad",
+                "screen_name": "annavetticad",
+                "location": "New Delhi, India",
+                "description": "Author of \u201cThe Adventures of an Intrepid Film Critic\u201d, Journalist, World's most committed feminist :) Instagram: annammvetticad",
+                "url": "https://t.co/4iQD7G8gDf",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/4iQD7G8gDf",
+                                "expanded_url": "http://annavetticadgoes2themovies.blogspot.com/",
+                                "display_url": "\u2026navetticadgoes2themovies.blogspot.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 116233,
+                "friends_count": 684,
+                "listed_count": 811,
+                "created_at": "Mon Aug 10 21:52:00 +0000 2009",
+                "favourites_count": 8698,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 113218,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1281319913009758208/FxFfZEwH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281319913009758208/FxFfZEwH_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/64526820/1503638957",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1283744416541245440,
+            "quoted_status_id_str": "1283744416541245440",
+            "quoted_status": {
+                "created_at": "Thu Jul 16 12:44:54 +0000 2020",
+                "id": 1283744416541245440,
+                "id_str": "1283744416541245440",
+                "text": "A new letter by Human Rights Defenders Alert reveals that when #VaravaraRao family visited him in JJ Hospital Mumba\u2026 https://t.co/7L4N8MIn9V",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "VaravaraRao",
+                            "indices": [
+                                63,
+                                75
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/7L4N8MIn9V",
+                            "expanded_url": "https://twitter.com/i/web/status/1283744416541245440",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1224720593095811072,
+                    "id_str": "1224720593095811072",
+                    "name": "Article 14",
+                    "screen_name": "Article14live",
+                    "location": "",
+                    "description": "Justice. Constitution. Democracy. Founded by Samar Halarnkar @samar11",
+                    "url": "https://t.co/k4UdM2Ub0K",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/k4UdM2Ub0K",
+                                    "expanded_url": "http://www.article-14.com",
+                                    "display_url": "article-14.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 11302,
+                    "friends_count": 301,
+                    "listed_count": 40,
+                    "created_at": "Tue Feb 04 15:45:41 +0000 2020",
+                    "favourites_count": 395,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1113,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1224751310576111616/SAqfg8B3_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224751310576111616/SAqfg8B3_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 124,
+                "favorite_count": 111,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 1,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1283744416541245440,
+        "quoted_status_id_str": "1283744416541245440",
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:27:56 +0000 2020",
+        "id": 1283755246439694337,
+        "id_str": "1283755246439694337",
+        "text": "The cruelty being shown to #VaravaraRao and so many other activists/artists/journalists/students will come back to\u2026 https://t.co/sbLWDbr3fS",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "VaravaraRao",
+                    "indices": [
+                        27,
+                        39
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/sbLWDbr3fS",
+                    "expanded_url": "https://twitter.com/i/web/status/1283755246439694337",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 64526820,
+            "id_str": "64526820",
+            "name": "Anna MM Vetticad",
+            "screen_name": "annavetticad",
+            "location": "New Delhi, India",
+            "description": "Author of \u201cThe Adventures of an Intrepid Film Critic\u201d, Journalist, World's most committed feminist :) Instagram: annammvetticad",
+            "url": "https://t.co/4iQD7G8gDf",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/4iQD7G8gDf",
+                            "expanded_url": "http://annavetticadgoes2themovies.blogspot.com/",
+                            "display_url": "\u2026navetticadgoes2themovies.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 116233,
+            "friends_count": 684,
+            "listed_count": 811,
+            "created_at": "Mon Aug 10 21:52:00 +0000 2009",
+            "favourites_count": 8698,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 113218,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281319913009758208/FxFfZEwH_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281319913009758208/FxFfZEwH_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/64526820/1503638957",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1283744416541245440,
+        "quoted_status_id_str": "1283744416541245440",
+        "quoted_status": {
+            "created_at": "Thu Jul 16 12:44:54 +0000 2020",
+            "id": 1283744416541245440,
+            "id_str": "1283744416541245440",
+            "text": "A new letter by Human Rights Defenders Alert reveals that when #VaravaraRao family visited him in JJ Hospital Mumba\u2026 https://t.co/7L4N8MIn9V",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "VaravaraRao",
+                        "indices": [
+                            63,
+                            75
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/7L4N8MIn9V",
+                        "expanded_url": "https://twitter.com/i/web/status/1283744416541245440",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1224720593095811072,
+                "id_str": "1224720593095811072",
+                "name": "Article 14",
+                "screen_name": "Article14live",
+                "location": "",
+                "description": "Justice. Constitution. Democracy. Founded by Samar Halarnkar @samar11",
+                "url": "https://t.co/k4UdM2Ub0K",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/k4UdM2Ub0K",
+                                "expanded_url": "http://www.article-14.com",
+                                "display_url": "article-14.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 11302,
+                "friends_count": 301,
+                "listed_count": 40,
+                "created_at": "Tue Feb 04 15:45:41 +0000 2020",
+                "favourites_count": 395,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1113,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1224751310576111616/SAqfg8B3_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1224751310576111616/SAqfg8B3_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 124,
+            "favorite_count": 111,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:25:28 +0000 2020",
+        "id": 1283754624391041027,
+        "id_str": "1283754624391041027",
+        "text": "RT @azim_nishat: These two are the Traitors of Muslim Ummah\u263b\ud83d\ude08\nOne had sold #Palestine\nThe other has sold #Kashmir\n#FreePalestine\n#FreeKashm\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Palestine",
+                    "indices": [
+                        75,
+                        85
+                    ]
+                },
+                {
+                    "text": "Kashmir",
+                    "indices": [
+                        105,
+                        113
+                    ]
+                },
+                {
+                    "text": "FreePalestine",
+                    "indices": [
+                        114,
+                        128
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "azim_nishat",
+                    "name": "Malik Nishat Azim",
+                    "id": 728269184665292801,
+                    "id_str": "728269184665292801",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3232495902,
+            "id_str": "3232495902",
+            "name": "Fearless Advocate PMLN\ud83e\udd81",
+            "screen_name": "waqarwatoo",
+            "location": " Pakistan",
+            "description": "A true muslim,\nPatriotic Pakistani, hate hypocrisy\nPMLN \ud83e\udd81",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1745,
+            "friends_count": 1566,
+            "listed_count": 3,
+            "created_at": "Mon Jun 01 12:39:37 +0000 2015",
+            "favourites_count": 73903,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 54524,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1240358330037686273/JYgXbIbn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1240358330037686273/JYgXbIbn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3232495902/1564677469",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 09:42:09 +0000 2020",
+            "id": 1283698425511456768,
+            "id_str": "1283698425511456768",
+            "text": "These two are the Traitors of Muslim Ummah\u263b\ud83d\ude08\nOne had sold #Palestine\nThe other has sold #Kashmir\n#FreePalestine\u2026 https://t.co/HycaysHLVm",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Palestine",
+                        "indices": [
+                            58,
+                            68
+                        ]
+                    },
+                    {
+                        "text": "Kashmir",
+                        "indices": [
+                            88,
+                            96
+                        ]
+                    },
+                    {
+                        "text": "FreePalestine",
+                        "indices": [
+                            97,
+                            111
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HycaysHLVm",
+                        "expanded_url": "https://twitter.com/i/web/status/1283698425511456768",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 728269184665292801,
+                "id_str": "728269184665292801",
+                "name": "Malik Nishat Azim",
+                "screen_name": "azim_nishat",
+                "location": "Pakistan",
+                "description": "Man was born free but he is in chains everywhere\u2757\nEngineer, Entrepreneur, Political Scientist and a Crusader for Civil Freedoms. Nawaz Sharif - a living Legend\u2757",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9226,
+                "friends_count": 9793,
+                "listed_count": 1,
+                "created_at": "Thu May 05 17:04:39 +0000 2016",
+                "favourites_count": 37952,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 36471,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1268893261399293953/gMq4TN3D_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268893261399293953/gMq4TN3D_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/728269184665292801/1545065664",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 46,
+            "favorite_count": 46,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 46,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:24:53 +0000 2020",
+        "id": 1283754479209328640,
+        "id_str": "1283754479209328640",
+        "text": "RT @aarisha__: Our only fault is that we live on our own land \ud83d\udc94\n#Palestine \ud83c\uddf5\ud83c\uddf8 #kashmir\n#IStandWithPalestine\n#KashmirBleeds \n#FreePalestine\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Palestine",
+                    "indices": [
+                        64,
+                        74
+                    ]
+                },
+                {
+                    "text": "kashmir",
+                    "indices": [
+                        78,
+                        86
+                    ]
+                },
+                {
+                    "text": "IStandWithPalestine",
+                    "indices": [
+                        87,
+                        107
+                    ]
+                },
+                {
+                    "text": "KashmirBleeds",
+                    "indices": [
+                        108,
+                        122
+                    ]
+                },
+                {
+                    "text": "FreePalestine",
+                    "indices": [
+                        124,
+                        138
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "aarisha__",
+                    "name": "Dr.Arisha",
+                    "id": 1274234841408692224,
+                    "id_str": "1274234841408692224",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 884938117,
+            "id_str": "884938117",
+            "name": "Kabir khan",
+            "screen_name": "Kabir_sms",
+            "location": "Rawalpindi, Pakistan",
+            "description": "Pakistan Tehreek Insaff",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 460,
+            "friends_count": 1324,
+            "listed_count": 0,
+            "created_at": "Tue Oct 16 17:52:13 +0000 2012",
+            "favourites_count": 14767,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 3715,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1118411065367433216/hEvkRB0C_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118411065367433216/hEvkRB0C_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/884938117/1550038868",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 09:29:12 +0000 2020",
+            "id": 1283695166105231360,
+            "id_str": "1283695166105231360",
+            "text": "Our only fault is that we live on our own land \ud83d\udc94\n#Palestine \ud83c\uddf5\ud83c\uddf8 #kashmir\n#IStandWithPalestine\n#KashmirBleeds\u2026 https://t.co/MIT5cZGvKW",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Palestine",
+                        "indices": [
+                            49,
+                            59
+                        ]
+                    },
+                    {
+                        "text": "kashmir",
+                        "indices": [
+                            63,
+                            71
+                        ]
+                    },
+                    {
+                        "text": "IStandWithPalestine",
+                        "indices": [
+                            72,
+                            92
+                        ]
+                    },
+                    {
+                        "text": "KashmirBleeds",
+                        "indices": [
+                            93,
+                            107
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/MIT5cZGvKW",
+                        "expanded_url": "https://twitter.com/i/web/status/1283695166105231360",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            109,
+                            132
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1274234841408692224,
+                "id_str": "1274234841408692224",
+                "name": "Dr.Arisha",
+                "screen_name": "aarisha__",
+                "location": "",
+                "description": "They ask where does your heart belong.......\nI say #KASHMIR \u2764\ud83d\udc95",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 220,
+                "friends_count": 168,
+                "listed_count": 0,
+                "created_at": "Sat Jun 20 07:06:31 +0000 2020",
+                "favourites_count": 832,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 185,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1283696074557972480/BswCnZjP_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283696074557972480/BswCnZjP_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274234841408692224/1592721671",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 19,
+            "favorite_count": 38,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:23:44 +0000 2020",
+        "id": 1283754191308062720,
+        "id_str": "1283754191308062720",
+        "text": "RT @azim_nishat: These two are the Traitors of Muslim Ummah\u263b\ud83d\ude08\nOne had sold #Palestine\nThe other has sold #Kashmir\n#FreePalestine\n#FreeKashm\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Palestine",
+                    "indices": [
+                        75,
+                        85
+                    ]
+                },
+                {
+                    "text": "Kashmir",
+                    "indices": [
+                        105,
+                        113
+                    ]
+                },
+                {
+                    "text": "FreePalestine",
+                    "indices": [
+                        114,
+                        128
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "azim_nishat",
+                    "name": "Malik Nishat Azim",
+                    "id": 728269184665292801,
+                    "id_str": "728269184665292801",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1025837841069301763,
+            "id_str": "1025837841069301763",
+            "name": "Sadia NooR",
+            "screen_name": "sadiasnoor",
+            "location": "Rawalpindi, Pakistan",
+            "description": "\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u0645\u06cc\u06ba \u062f\u0646\u06cc\u0627 \u0645\u06cc\u06ba \u062f\u0648 \u0644\u0648\u06af\u0648\u06ba \u06a9\u0648 \u0633\u0628 \u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1 \u067e\u06cc\u0627\u0631 \u06a9\u0631\u062a\u06cc \u06c1\u0648\u06ba \u0627\u06cc\u06a9 \u0645\u06cc\u0631\u06d2 \u0628\u0627\u0628\u0627 \u062c\u0648 \u0645\u062c\u06be \u0686\u06be\u0648\u0691 \u06a9\u0631 \u0686\u0644\u06d2 \u06af\u0626\u06d2 \u06c1\u06cc\u06ba \u062f\u0648\u0633\u0631\u06cc \u0645\u0631\u06cc\u0645 \u0622\u067e\u06cc",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 22461,
+            "friends_count": 78,
+            "listed_count": 1,
+            "created_at": "Sat Aug 04 20:16:15 +0000 2018",
+            "favourites_count": 8272,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 36080,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1275388087074467840/2sShFq7S_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1275388087074467840/2sShFq7S_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1025837841069301763/1545894837",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 09:42:09 +0000 2020",
+            "id": 1283698425511456768,
+            "id_str": "1283698425511456768",
+            "text": "These two are the Traitors of Muslim Ummah\u263b\ud83d\ude08\nOne had sold #Palestine\nThe other has sold #Kashmir\n#FreePalestine\u2026 https://t.co/HycaysHLVm",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Palestine",
+                        "indices": [
+                            58,
+                            68
+                        ]
+                    },
+                    {
+                        "text": "Kashmir",
+                        "indices": [
+                            88,
+                            96
+                        ]
+                    },
+                    {
+                        "text": "FreePalestine",
+                        "indices": [
+                            97,
+                            111
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HycaysHLVm",
+                        "expanded_url": "https://twitter.com/i/web/status/1283698425511456768",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 728269184665292801,
+                "id_str": "728269184665292801",
+                "name": "Malik Nishat Azim",
+                "screen_name": "azim_nishat",
+                "location": "Pakistan",
+                "description": "Man was born free but he is in chains everywhere\u2757\nEngineer, Entrepreneur, Political Scientist and a Crusader for Civil Freedoms. Nawaz Sharif - a living Legend\u2757",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9226,
+                "friends_count": 9793,
+                "listed_count": 1,
+                "created_at": "Thu May 05 17:04:39 +0000 2016",
+                "favourites_count": 37952,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 36471,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1268893261399293953/gMq4TN3D_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268893261399293953/gMq4TN3D_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/728269184665292801/1545065664",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 46,
+            "favorite_count": 46,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 46,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:22:56 +0000 2020",
+        "id": 1283753989029363713,
+        "id_str": "1283753989029363713",
+        "text": "RT @azim_nishat: These two are the Traitors of Muslim Ummah\u263b\ud83d\ude08\nOne had sold #Palestine\nThe other has sold #Kashmir\n#FreePalestine\n#FreeKashm\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Palestine",
+                    "indices": [
+                        75,
+                        85
+                    ]
+                },
+                {
+                    "text": "Kashmir",
+                    "indices": [
+                        105,
+                        113
+                    ]
+                },
+                {
+                    "text": "FreePalestine",
+                    "indices": [
+                        114,
+                        128
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "azim_nishat",
+                    "name": "Malik Nishat Azim",
+                    "id": 728269184665292801,
+                    "id_str": "728269184665292801",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 90867793,
+            "id_str": "90867793",
+            "name": "Shah",
+            "screen_name": "abaseen99",
+            "location": "Peshawar, Pakistan",
+            "description": "Engineer",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 13419,
+            "friends_count": 12479,
+            "listed_count": 5,
+            "created_at": "Wed Nov 18 13:18:57 +0000 2009",
+            "favourites_count": 68546,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 38347,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1179459160431312896/TAVwEPlw_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1179459160431312896/TAVwEPlw_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/90867793/1559695470",
+            "profile_link_color": "7FDBB6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 09:42:09 +0000 2020",
+            "id": 1283698425511456768,
+            "id_str": "1283698425511456768",
+            "text": "These two are the Traitors of Muslim Ummah\u263b\ud83d\ude08\nOne had sold #Palestine\nThe other has sold #Kashmir\n#FreePalestine\u2026 https://t.co/HycaysHLVm",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Palestine",
+                        "indices": [
+                            58,
+                            68
+                        ]
+                    },
+                    {
+                        "text": "Kashmir",
+                        "indices": [
+                            88,
+                            96
+                        ]
+                    },
+                    {
+                        "text": "FreePalestine",
+                        "indices": [
+                            97,
+                            111
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/HycaysHLVm",
+                        "expanded_url": "https://twitter.com/i/web/status/1283698425511456768",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            113,
+                            136
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 728269184665292801,
+                "id_str": "728269184665292801",
+                "name": "Malik Nishat Azim",
+                "screen_name": "azim_nishat",
+                "location": "Pakistan",
+                "description": "Man was born free but he is in chains everywhere\u2757\nEngineer, Entrepreneur, Political Scientist and a Crusader for Civil Freedoms. Nawaz Sharif - a living Legend\u2757",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 9226,
+                "friends_count": 9793,
+                "listed_count": 1,
+                "created_at": "Thu May 05 17:04:39 +0000 2016",
+                "favourites_count": 37952,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 36471,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1268893261399293953/gMq4TN3D_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268893261399293953/gMq4TN3D_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/728269184665292801/1545065664",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 46,
+            "favorite_count": 46,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 46,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:19:02 +0000 2020",
+        "id": 1283753008401195011,
+        "id_str": "1283753008401195011",
+        "text": "RT @sanwal_ji: \u06a9\u0634\u0645\u06cc\u0631 \u06a9\u0631\u0641\u06cc\u0648 346 \u062f\u0646 \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\n#StandWithHolarDamAjkAffectees \n#Kashmir \n#KashmirBleeds \n#saveriverssaveajk \n#KashmiriLivesMatter\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "StandWithHolarDamAjkAffectees",
+                    "indices": [
+                        39,
+                        69
+                    ]
+                },
+                {
+                    "text": "Kashmir",
+                    "indices": [
+                        71,
+                        79
+                    ]
+                },
+                {
+                    "text": "KashmirBleeds",
+                    "indices": [
+                        81,
+                        95
+                    ]
+                },
+                {
+                    "text": "saveriverssaveajk",
+                    "indices": [
+                        97,
+                        115
+                    ]
+                },
+                {
+                    "text": "KashmiriLivesMatter",
+                    "indices": [
+                        117,
+                        137
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "sanwal_ji",
+                    "name": "Muhammad Sanwal Abbas",
+                    "id": 1275308099017023491,
+                    "id_str": "1275308099017023491",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "fa",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1260185410350743553,
+            "id_str": "1260185410350743553",
+            "name": "\u0633\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0627\u06af\u0640\u0640\u0631 \u0641\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u06cc\u0627\u0636 \u06a9\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0640\u0634\u0640\u0640\u0645\u06cc\u0631\u06cc",
+            "screen_name": "Fayazkashmirii",
+            "location": "Jammu, Jammu And Kashmir",
+            "description": "Freedom Fighter| Kashmir Is My Identity|* Proud To Be A Kashmiri*\ud83d\udc9f\ud83d\udc9f #Team_Voice_For_Kashmir",
+            "url": "https://t.co/gPu6MPf3CH",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/gPu6MPf3CH",
+                            "expanded_url": "https://Twitter.com/search/from:@FayazKashmirii",
+                            "display_url": "Twitter.com/search/from:@F\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1298,
+            "friends_count": 1292,
+            "listed_count": 0,
+            "created_at": "Tue May 12 12:30:07 +0000 2020",
+            "favourites_count": 5126,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 6801,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1282986354545242113/xiaDKzG1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1282986354545242113/xiaDKzG1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260185410350743553/1594798316",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 08:44:46 +0000 2020",
+            "id": 1283683983805612033,
+            "id_str": "1283683983805612033",
+            "text": "\u06a9\u0634\u0645\u06cc\u0631 \u06a9\u0631\u0641\u06cc\u0648 346 \u062f\u0646 \n\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\n#StandWithHolarDamAjkAffectees \n#Kashmir \n#KashmirBleeds \n#saveriverssaveajk\u2026 https://t.co/azq9vTYpKd",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "StandWithHolarDamAjkAffectees",
+                        "indices": [
+                            24,
+                            54
+                        ]
+                    },
+                    {
+                        "text": "Kashmir",
+                        "indices": [
+                            56,
+                            64
+                        ]
+                    },
+                    {
+                        "text": "KashmirBleeds",
+                        "indices": [
+                            66,
+                            80
+                        ]
+                    },
+                    {
+                        "text": "saveriverssaveajk",
+                        "indices": [
+                            82,
+                            100
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/azq9vTYpKd",
+                        "expanded_url": "https://twitter.com/i/web/status/1283683983805612033",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            102,
+                            125
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "fa",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1275308099017023491,
+                "id_str": "1275308099017023491",
+                "name": "Muhammad Sanwal Abbas",
+                "screen_name": "sanwal_ji",
+                "location": "",
+                "description": "\u200fKashmir is my soul, Kashmir is my heartbeat and Kashmir is my breath and Kashmir is my life",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 135,
+                "friends_count": 212,
+                "listed_count": 0,
+                "created_at": "Tue Jun 23 06:02:13 +0000 2020",
+                "favourites_count": 86,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 169,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1279749391692201984/UYuprf9X_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1279749391692201984/UYuprf9X_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1275308099017023491/1592923757",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fa"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "fa"
+    },
+    {
+        "created_at": "Thu Jul 16 13:16:16 +0000 2020",
+        "id": 1283752309957287943,
+        "id_str": "1283752309957287943",
+        "text": "If Pakistan cannot claim the oil produced in Arabia, cannot claim the gas produced in Russia, then how can India an\u2026 https://t.co/wrlrEpHbL7",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/wrlrEpHbL7",
+                    "expanded_url": "https://twitter.com/i/web/status/1283752309957287943",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1275308099017023491,
+            "id_str": "1275308099017023491",
+            "name": "Muhammad Sanwal Abbas",
+            "screen_name": "sanwal_ji",
+            "location": "",
+            "description": "\u200fKashmir is my soul, Kashmir is my heartbeat and Kashmir is my breath and Kashmir is my life",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 135,
+            "friends_count": 212,
+            "listed_count": 0,
+            "created_at": "Tue Jun 23 06:02:13 +0000 2020",
+            "favourites_count": 86,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 169,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1279749391692201984/UYuprf9X_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1279749391692201984/UYuprf9X_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1275308099017023491/1592923757",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:14:59 +0000 2020",
+        "id": 1283751986140262401,
+        "id_str": "1283751986140262401",
+        "text": "RT @FarazWahab1: \u062a\u064f\u0648 \u0622\u06ba \u0642\u0627\u062a\u0644 \u06a9\u06c1 \u0627\u0632 \u0628\u06c1\u0631\u0650 \u062a\u0645\u0627\u0634\u0627 \u062e\u0648\u0646\u0650 \u0645\u0646 \u0631\u06cc\u0632\u06cc\n\u0645\u0646 \u0622\u06ba \u0628\u0633\u0645\u0644 \u06a9\u06c1 \u0632\u06cc\u0631\u0650 \u062e\u0646\u062c\u0631\u0650 \u062e\u0648\u0646\u062e\u0648\u0627\u0631 \u0645\u06cc \u0631\u0642\u0635\u0645 \n\n#Kashmirbleeds\ud83d\udc94\n#Team_Defenders https\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Kashmirbleeds",
+                    "indices": [
+                        102,
+                        116
+                    ]
+                },
+                {
+                    "text": "Team_Defenders",
+                    "indices": [
+                        118,
+                        133
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "FarazWahab1",
+                    "name": "\ud83c\uddf9\ud83c\uddf7\ud83d\udc9e\ud83c\uddf5\ud83c\uddf0[ \u0641\u0631\u0627\u0632 \u0648\u06c1\u0627\u0628 ]",
+                    "id": 800006789701967872,
+                    "id_str": "800006789701967872",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "ur",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 976805727472930816,
+            "id_str": "976805727472930816",
+            "name": "\u0627\u064f\u0645\u0645\u062a\u06cc ____\u2764\ufe0f",
+            "screen_name": "ummati_946",
+            "location": "Pakistan",
+            "description": "\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200f\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e#NO_DM\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e\u200e#Married \n\ud83d\udc97\u0627\u0644\u062d\u0645\u062f\u0644\u0644\u0647 \u0622\u067e \u0635\u0644\u06cc \u0627\u0644\u0644\u06c1 \u0639\u0644\u06cc\u06c1 \u0648\u0622\u0644\u06c1 \u0648\u0633\u0644\u0645 \u06a9\u06cc \u0627\u064f\u0645\u0645\u062a\u06cc \u06c1\u0648\u06ba \ud83c\udf3a\ud83c\udf38\ud83d\udc9a",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6872,
+            "friends_count": 5535,
+            "listed_count": 1,
+            "created_at": "Thu Mar 22 13:00:08 +0000 2018",
+            "favourites_count": 5138,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 8313,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1110050414102224896/OJdtrFXm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1110050414102224896/OJdtrFXm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/976805727472930816/1594904675",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 15 22:58:27 +0000 2020",
+            "id": 1283536434335485953,
+            "id_str": "1283536434335485953",
+            "text": "\u062a\u064f\u0648 \u0622\u06ba \u0642\u0627\u062a\u0644 \u06a9\u06c1 \u0627\u0632 \u0628\u06c1\u0631\u0650 \u062a\u0645\u0627\u0634\u0627 \u062e\u0648\u0646\u0650 \u0645\u0646 \u0631\u06cc\u0632\u06cc\n\u0645\u0646 \u0622\u06ba \u0628\u0633\u0645\u0644 \u06a9\u06c1 \u0632\u06cc\u0631\u0650 \u062e\u0646\u062c\u0631\u0650 \u062e\u0648\u0646\u062e\u0648\u0627\u0631 \u0645\u06cc \u0631\u0642\u0635\u0645 \n\n#Kashmirbleeds\ud83d\udc94\n#Team_Defenders https://t.co/xF8HDi9ULC",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Kashmirbleeds",
+                        "indices": [
+                            85,
+                            99
+                        ]
+                    },
+                    {
+                        "text": "Team_Defenders",
+                        "indices": [
+                            101,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 1283536430426468352,
+                        "id_str": "1283536430426468352",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EdAJlT_XsAAy8rr.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EdAJlT_XsAAy8rr.jpg",
+                        "url": "https://t.co/xF8HDi9ULC",
+                        "display_url": "pic.twitter.com/xF8HDi9ULC",
+                        "expanded_url": "https://twitter.com/FarazWahab1/status/1283536434335485953/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1770,
+                                "h": 996,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1283536430426468352,
+                        "id_str": "1283536430426468352",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EdAJlT_XsAAy8rr.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EdAJlT_XsAAy8rr.jpg",
+                        "url": "https://t.co/xF8HDi9ULC",
+                        "display_url": "pic.twitter.com/xF8HDi9ULC",
+                        "expanded_url": "https://twitter.com/FarazWahab1/status/1283536434335485953/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 383,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 675,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1770,
+                                "h": 996,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "ur",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 800006789701967872,
+                "id_str": "800006789701967872",
+                "name": "\ud83c\uddf9\ud83c\uddf7\ud83d\udc9e\ud83c\uddf5\ud83c\uddf0[ \u0641\u0631\u0627\u0632 \u0648\u06c1\u0627\u0628 ]",
+                "screen_name": "FarazWahab1",
+                "location": "\u0633\u0646\u062f\u06be, \u067e\u0627\u06a9\u0633\u062a\u0627\u0646",
+                "description": "[ Social Actives ] \n  Member of Team #Defenders_OF_Pakistan #PakistanPatriotic \n#PakArmy\ud83d\udc9e\ud83c\uddf5\ud83c\uddf0",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 7601,
+                "friends_count": 4195,
+                "listed_count": 10,
+                "created_at": "Sat Nov 19 16:04:16 +0000 2016",
+                "favourites_count": 23891,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 151439,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1281740812058009602/GexhPTed_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281740812058009602/GexhPTed_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/800006789701967872/1592908184",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 96,
+            "favorite_count": 108,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ur"
+        },
+        "is_quote_status": false,
+        "retweet_count": 96,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ur"
+    },
+    {
+        "created_at": "Thu Jul 16 13:14:37 +0000 2020",
+        "id": 1283751893727158272,
+        "id_str": "1283751893727158272",
+        "text": "RT @ZahraniAbidi: To @OIC_OCI \nFor the sake of Allah do some things about this crimes against humanity \n#KashmirBleeds is in the way of bei\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KashmirBleeds",
+                    "indices": [
+                        104,
+                        118
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ZahraniAbidi",
+                    "name": "\u0645/ \u0639\u0628\u064a\u062f\u064a \u0627\u0644\u0632\u0647\u0631\u0627\u0646\u064a",
+                    "id": 2890735915,
+                    "id_str": "2890735915",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "OIC_OCI",
+                    "name": "OIC",
+                    "id": 329562672,
+                    "id_str": "329562672",
+                    "indices": [
+                        21,
+                        29
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1185280920602984450,
+            "id_str": "1185280920602984450",
+            "name": "\u0639\u0631\u0641\u0627\u0646 \u0639\u0644\u064a",
+            "screen_name": "IrfanJamro5",
+            "location": "",
+            "description": "\u200f\u0633\u0627\u0626\u064a\u0645 \u0633\u062f\u0627\u0626\u064a\u0646 \u06aa\u0631\u064a\u0646 \u0645\u067f\u064a \u0633\u0646\u068c \u0633\u06aa\u0627\u0631......",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 114,
+            "friends_count": 280,
+            "listed_count": 0,
+            "created_at": "Fri Oct 18 19:47:17 +0000 2019",
+            "favourites_count": 9245,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 8572,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1223434743200591874/t-lDCcTg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1223434743200591874/t-lDCcTg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1185280920602984450/1580524548",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 15 19:09:30 +0000 2020",
+            "id": 1283478815344332801,
+            "id_str": "1283478815344332801",
+            "text": "To @OIC_OCI \nFor the sake of Allah do some things about this crimes against humanity \n#KashmirBleeds is in the way\u2026 https://t.co/ngbAjj9Ali",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "KashmirBleeds",
+                        "indices": [
+                            86,
+                            100
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "OIC_OCI",
+                        "name": "OIC",
+                        "id": 329562672,
+                        "id_str": "329562672",
+                        "indices": [
+                            3,
+                            11
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/ngbAjj9Ali",
+                        "expanded_url": "https://twitter.com/i/web/status/1283478815344332801",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            116,
+                            139
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2890735915,
+                "id_str": "2890735915",
+                "name": "\u0645/ \u0639\u0628\u064a\u062f\u064a \u0627\u0644\u0632\u0647\u0631\u0627\u0646\u064a",
+                "screen_name": "ZahraniAbidi",
+                "location": "\u062a\u062d\u062a \u0631\u0627\u064a\u0629 \u0627\u0644\u062a\u0648\u062d\u064a\u062f ",
+                "description": "\u0627\u062d\u0645\u0644 \u0647\u0645 \u0627\u0644\u0627\u0645\u0629\u060c\u0627\u0644\u0627\u0633\u0644\u0627\u0645 \u0643\u0627\u0645\u0644 \u0648\u0627\u0644\u0646\u0642\u0635 \u0641\u064a \u0627\u0644\u0645\u0633\u0644\u0645\u064a\u0646\u060c \u0642\u0636\u064a\u062a\u064a \u0627\u0644\u0627\u0648\u0644\u0649 \u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0644\u0645\u062d\u062a\u0644\u0629\u060c \u0644\u0627 \u0623\u062d\u0627\u0648\u0631 \u0645\u062c\u0647\u0648\u0644\u060c\u0645\u062a\u0642\u0627\u0639\u062f Islam is perfect Muslims r not",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 27639,
+                "friends_count": 751,
+                "listed_count": 21,
+                "created_at": "Wed Nov 05 10:51:17 +0000 2014",
+                "favourites_count": 15793,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 43636,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1266754486523101184/PVbRjfbs_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1266754486523101184/PVbRjfbs_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2890735915/1583617105",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1283460519160983552,
+            "quoted_status_id_str": "1283460519160983552",
+            "quoted_status": {
+                "created_at": "Wed Jul 15 17:56:47 +0000 2020",
+                "id": 1283460519160983552,
+                "id_str": "1283460519160983552",
+                "text": "Everyday a family is made homeless in kashmir,it takes years to build a house but india army razed it to ground in\u2026 https://t.co/FTThvWrRjG",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/FTThvWrRjG",
+                            "expanded_url": "https://twitter.com/i/web/status/1283460519160983552",
+                            "display_url": "twitter.com/i/web/status/1\u2026",
+                            "indices": [
+                                116,
+                                139
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 205111908,
+                    "id_str": "205111908",
+                    "name": "Rahil Hassan |\u0631\u0627\u06c1\u0644 \u062d\u0633\u0646",
+                    "screen_name": "ingenuous_Rahil",
+                    "location": "Indian Occupied Kashmir",
+                    "description": "Proud Muslim|Stunt Rider|MBA student|Traveller|Mountaineer|Humanitarian by virtue|In\u2764\ufe0f with Poetry\ud83c\udfb5Nature\u262e\ufe0f & Silence|Rise Above Hate|From The Land Of Martyrsl",
+                    "url": "https://t.co/wdkrLKoqWj",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/wdkrLKoqWj",
+                                    "expanded_url": "http://www.mfa.gov.tr",
+                                    "display_url": "mfa.gov.tr",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 79,
+                    "friends_count": 122,
+                    "listed_count": 0,
+                    "created_at": "Wed Oct 20 05:17:34 +0000 2010",
+                    "favourites_count": 3297,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 955,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1282970831836999682/3yrxlU2U_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1282970831836999682/3yrxlU2U_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/205111908/1544203230",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": {
+                    "id": "67e03c802d5b6921",
+                    "url": "https://api.twitter.com/1.1/geo/id/67e03c802d5b6921.json",
+                    "place_type": "city",
+                    "name": "Baramula",
+                    "full_name": "Baramula, Jammu And Kashmir",
+                    "country_code": "",
+                    "country": "",
+                    "contained_within": [],
+                    "bounding_box": {
+                        "type": "Polygon",
+                        "coordinates": [
+                            [
+                                [
+                                    74.1197462,
+                                    33.5245947
+                                ],
+                                [
+                                    75.3528621,
+                                    33.5245947
+                                ],
+                                [
+                                    75.3528621,
+                                    34.8296726
+                                ],
+                                [
+                                    74.1197462,
+                                    34.8296726
+                                ]
+                            ]
+                        ]
+                    },
+                    "attributes": {}
+                },
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 38,
+                "favorite_count": 35,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 144,
+            "favorite_count": 274,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1283460519160983552,
+        "quoted_status_id_str": "1283460519160983552",
+        "retweet_count": 144,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:11:20 +0000 2020",
+        "id": 1283751070762708994,
+        "id_str": "1283751070762708994",
+        "text": "RT @aarisha__: Our only fault is that we live on our own land \ud83d\udc94\n#Palestine \ud83c\uddf5\ud83c\uddf8 #kashmir\n#IStandWithPalestine\n#KashmirBleeds \n#FreePalestine\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Palestine",
+                    "indices": [
+                        64,
+                        74
+                    ]
+                },
+                {
+                    "text": "kashmir",
+                    "indices": [
+                        78,
+                        86
+                    ]
+                },
+                {
+                    "text": "IStandWithPalestine",
+                    "indices": [
+                        87,
+                        107
+                    ]
+                },
+                {
+                    "text": "KashmirBleeds",
+                    "indices": [
+                        108,
+                        122
+                    ]
+                },
+                {
+                    "text": "FreePalestine",
+                    "indices": [
+                        124,
+                        138
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "aarisha__",
+                    "name": "Dr.Arisha",
+                    "id": 1274234841408692224,
+                    "id_str": "1274234841408692224",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1212714006571409408,
+            "id_str": "1212714006571409408",
+            "name": "Manzoor Hussain",
+            "screen_name": "Manzoor01162219",
+            "location": "",
+            "description": "Human Rights Activist, Human Lover, Patriotic Pakistani, Proud Muslim, Proud Pakistani\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39 Pakistan Army Zindabad\ud83c\udf39\ud83c\udf39\ud83c\udf39\ud83c\udf39",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 4977,
+            "friends_count": 5345,
+            "listed_count": 1,
+            "created_at": "Thu Jan 02 12:35:47 +0000 2020",
+            "favourites_count": 68854,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 41055,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1242319841320730625/qC7ri6ez_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242319841320730625/qC7ri6ez_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 09:29:12 +0000 2020",
+            "id": 1283695166105231360,
+            "id_str": "1283695166105231360",
+            "text": "Our only fault is that we live on our own land \ud83d\udc94\n#Palestine \ud83c\uddf5\ud83c\uddf8 #kashmir\n#IStandWithPalestine\n#KashmirBleeds\u2026 https://t.co/MIT5cZGvKW",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Palestine",
+                        "indices": [
+                            49,
+                            59
+                        ]
+                    },
+                    {
+                        "text": "kashmir",
+                        "indices": [
+                            63,
+                            71
+                        ]
+                    },
+                    {
+                        "text": "IStandWithPalestine",
+                        "indices": [
+                            72,
+                            92
+                        ]
+                    },
+                    {
+                        "text": "KashmirBleeds",
+                        "indices": [
+                            93,
+                            107
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/MIT5cZGvKW",
+                        "expanded_url": "https://twitter.com/i/web/status/1283695166105231360",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            109,
+                            132
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1274234841408692224,
+                "id_str": "1274234841408692224",
+                "name": "Dr.Arisha",
+                "screen_name": "aarisha__",
+                "location": "",
+                "description": "They ask where does your heart belong.......\nI say #KASHMIR \u2764\ud83d\udc95",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 220,
+                "friends_count": 168,
+                "listed_count": 0,
+                "created_at": "Sat Jun 20 07:06:31 +0000 2020",
+                "favourites_count": 832,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 185,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1283696074557972480/BswCnZjP_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283696074557972480/BswCnZjP_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274234841408692224/1592721671",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 19,
+            "favorite_count": 38,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:11:09 +0000 2020",
+        "id": 1283751021726953474,
+        "id_str": "1283751021726953474",
+        "text": "RT @aarisha__: Our only fault is that we live on our own land \ud83d\udc94\n#Palestine \ud83c\uddf5\ud83c\uddf8 #kashmir\n#IStandWithPalestine\n#KashmirBleeds \n#FreePalestine\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Palestine",
+                    "indices": [
+                        64,
+                        74
+                    ]
+                },
+                {
+                    "text": "kashmir",
+                    "indices": [
+                        78,
+                        86
+                    ]
+                },
+                {
+                    "text": "IStandWithPalestine",
+                    "indices": [
+                        87,
+                        107
+                    ]
+                },
+                {
+                    "text": "KashmirBleeds",
+                    "indices": [
+                        108,
+                        122
+                    ]
+                },
+                {
+                    "text": "FreePalestine",
+                    "indices": [
+                        124,
+                        138
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "aarisha__",
+                    "name": "Dr.Arisha",
+                    "id": 1274234841408692224,
+                    "id_str": "1274234841408692224",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 824962107493937153,
+            "id_str": "824962107493937153",
+            "name": "Fire Fighter",
+            "screen_name": "018_alam",
+            "location": "Afghanistan",
+            "description": "Muslim, that's all.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 103,
+            "friends_count": 299,
+            "listed_count": 0,
+            "created_at": "Fri Jan 27 12:47:48 +0000 2017",
+            "favourites_count": 2802,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2475,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1248930859371180033/SagAYLkp_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1248930859371180033/SagAYLkp_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/824962107493937153/1592590494",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 09:29:12 +0000 2020",
+            "id": 1283695166105231360,
+            "id_str": "1283695166105231360",
+            "text": "Our only fault is that we live on our own land \ud83d\udc94\n#Palestine \ud83c\uddf5\ud83c\uddf8 #kashmir\n#IStandWithPalestine\n#KashmirBleeds\u2026 https://t.co/MIT5cZGvKW",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Palestine",
+                        "indices": [
+                            49,
+                            59
+                        ]
+                    },
+                    {
+                        "text": "kashmir",
+                        "indices": [
+                            63,
+                            71
+                        ]
+                    },
+                    {
+                        "text": "IStandWithPalestine",
+                        "indices": [
+                            72,
+                            92
+                        ]
+                    },
+                    {
+                        "text": "KashmirBleeds",
+                        "indices": [
+                            93,
+                            107
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/MIT5cZGvKW",
+                        "expanded_url": "https://twitter.com/i/web/status/1283695166105231360",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            109,
+                            132
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1274234841408692224,
+                "id_str": "1274234841408692224",
+                "name": "Dr.Arisha",
+                "screen_name": "aarisha__",
+                "location": "",
+                "description": "They ask where does your heart belong.......\nI say #KASHMIR \u2764\ud83d\udc95",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 220,
+                "friends_count": 168,
+                "listed_count": 0,
+                "created_at": "Sat Jun 20 07:06:31 +0000 2020",
+                "favourites_count": 832,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 185,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1283696074557972480/BswCnZjP_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283696074557972480/BswCnZjP_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274234841408692224/1592721671",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 19,
+            "favorite_count": 38,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 19,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:05:06 +0000 2020",
+        "id": 1283749501560389638,
+        "id_str": "1283749501560389638",
+        "text": "RT @abdullahasadsha: Assalam U Alikum\nGood Morning\nPray for Kashmiris\n#KashmiriLivesMatter \n#KashmirBleeds \n#kashmirlivesmatter",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KashmiriLivesMatter",
+                    "indices": [
+                        70,
+                        90
+                    ]
+                },
+                {
+                    "text": "KashmirBleeds",
+                    "indices": [
+                        92,
+                        106
+                    ]
+                },
+                {
+                    "text": "kashmirlivesmatter",
+                    "indices": [
+                        108,
+                        127
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "abdullahasadsha",
+                    "name": "Abdullah Asad Shah",
+                    "id": 3377274004,
+                    "id_str": "3377274004",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 948119962014625792,
+            "id_str": "948119962014625792",
+            "name": "Peanut.",
+            "screen_name": "Not_ur_Moon",
+            "location": "Islamabad, Pakistan\ud83c\uddf5\ud83c\uddf0",
+            "description": "When there is no way , Allah will make the way ...!\u2764",
+            "url": "https://t.co/ieMUDYCjpq",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ieMUDYCjpq",
+                            "expanded_url": "https://secret.viralsachxd.com/cc0570c97",
+                            "display_url": "secret.viralsachxd.com/cc0570c97",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3133,
+            "friends_count": 986,
+            "listed_count": 1,
+            "created_at": "Tue Jan 02 09:13:08 +0000 2018",
+            "favourites_count": 32232,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 35427,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1282451503534477312/k-Hzm_p1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1282451503534477312/k-Hzm_p1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/948119962014625792/1594595382",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 07:31:20 +0000 2020",
+            "id": 1283665505514131456,
+            "id_str": "1283665505514131456",
+            "text": "Assalam U Alikum\nGood Morning\nPray for Kashmiris\n#KashmiriLivesMatter \n#KashmirBleeds \n#kashmirlivesmatter",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "KashmiriLivesMatter",
+                        "indices": [
+                            49,
+                            69
+                        ]
+                    },
+                    {
+                        "text": "KashmirBleeds",
+                        "indices": [
+                            71,
+                            85
+                        ]
+                    },
+                    {
+                        "text": "kashmirlivesmatter",
+                        "indices": [
+                            87,
+                            106
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3377274004,
+                "id_str": "3377274004",
+                "name": "Abdullah Asad Shah",
+                "screen_name": "abdullahasadsha",
+                "location": "Karachi Pakistan",
+                "description": "|INTROVERT| |SYED| |Single(ALHUMDULILLAH)|https://t.co/dYvEOcc4pa| |Intellectual person|",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/dYvEOcc4pa",
+                                "expanded_url": "https://secret.viralsachxd.com/eb1d4494cJC",
+                                "display_url": "secret.viralsachxd.com/eb1d4494cJC",
+                                "indices": [
+                                    42,
+                                    65
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 195,
+                "friends_count": 270,
+                "listed_count": 0,
+                "created_at": "Wed Jul 15 12:01:17 +0000 2015",
+                "favourites_count": 3662,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1276,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1269618902071459851/jVX139If_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269618902071459851/jVX139If_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3377274004/1591535320",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:03:52 +0000 2020",
+        "id": 1283749189768208386,
+        "id_str": "1283749189768208386",
+        "text": "RT @ExposedPakistan: Indian Army human rights violations in Kashmir. Request all the anti-nationals to present these pictures in UN.\n\nTight\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ExposedPakistan",
+                    "name": "Voice Of India \ud83c\uddee\ud83c\uddf3\ud83d\udcaf",
+                    "id": 1260099085127659520,
+                    "id_str": "1260099085127659520",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1145047314362294272,
+            "id_str": "1145047314362294272",
+            "name": "Jasleen Kaur",
+            "screen_name": "Jasleen_Kaur97",
+            "location": "New Delhi",
+            "description": "Made in India\u2764Love\ud83d\udc15Pets\u2708Travelling \ud83c\udf5cCoking\ud83d\udc83Dancing\ud83d\udcdaReading\ud83d\udc81Fashion &\ud83d\udcaaFitness Freak\ud83d\ude0dSingle\ud83c\udf82",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 396,
+            "friends_count": 432,
+            "listed_count": 0,
+            "created_at": "Sat Jun 29 19:12:08 +0000 2019",
+            "favourites_count": 1069,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 686,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145047896896618496/zHRd-4Q2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145047896896618496/zHRd-4Q2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145047314362294272/1593409800",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jul 16 09:28:38 +0000 2020",
+            "id": 1283695022919970816,
+            "id_str": "1283695022919970816",
+            "text": "Indian Army human rights violations in Kashmir. Request all the anti-nationals to present these pictures in UN.\n\nTi\u2026 https://t.co/ms78of7DWj",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/ms78of7DWj",
+                        "expanded_url": "https://twitter.com/i/web/status/1283695022919970816",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1260099085127659520,
+                "id_str": "1260099085127659520",
+                "name": "Voice Of India \ud83c\uddee\ud83c\uddf3\ud83d\udcaf",
+                "screen_name": "ExposedPakistan",
+                "location": "",
+                "description": "Your Destination to Check Every Wrong Doing Of Pakistan.\nYoutube Channel - https://t.co/RRejFvttmv",
+                "url": "https://t.co/Y3qSP0DLeA",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Y3qSP0DLeA",
+                                "expanded_url": "https://www.instagram.com/pakistan_realface/",
+                                "display_url": "instagram.com/pakistan_realf\u2026",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/RRejFvttmv",
+                                "expanded_url": "https://www.youtube.com/channel/UCJuM4YZmuvUDsYwSI0Y1jMA",
+                                "display_url": "youtube.com/channel/UCJuM4\u2026",
+                                "indices": [
+                                    75,
+                                    98
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1707,
+                "friends_count": 2126,
+                "listed_count": 5,
+                "created_at": "Tue May 12 06:46:56 +0000 2020",
+                "favourites_count": 2606,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2373,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1282583445193949184/96nFlOT__normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1282583445193949184/96nFlOT__normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260099085127659520/1593674913",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 19,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:01:30 +0000 2020",
+        "id": 1283748592553988097,
+        "id_str": "1283748592553988097",
+        "text": "RT @kayagravitty: Tears in my eyes when I see the state kashmir is in right now, may Allah protect kashmir\ud83d\ude2d\ud83d\ude22\ud83d\ude22\n#KashmirBleeds\n#kashmirlivesm\u2026",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "KashmirBleeds",
+                    "indices": [
+                        110,
+                        124
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "kayagravitty",
+                    "name": "kaya gravitter",
+                    "id": 1143585544103841793,
+                    "id_str": "1143585544103841793",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 429452565,
+            "id_str": "429452565",
+            "name": "\u0648\u0644\u062f \u0645\u0643\u0629 \u0645\u0627\u0643\u0648 \u0641\u0643\u0629.\u201d\ud83d\udc73\ud83c\udffd\u200d\u2640\ufe0f\ud83d\udd25",
+            "screen_name": "Ahlawy_hejazi",
+            "location": "\u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629, \u0627\u0644\u0645\u0645\u0644\u0643\u0629 \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+            "description": "\u0627\u0639\u0638\u0645 \u0645\u0627\u0642\u064a\u0644 \u0639\u0646 \u0627\u0644\u0648\u0641\u0627\u0621\"\u0648\u064e\u0639\u064e\u0628\u0631 \u0627\u0644\u0632\u0651\u064e\u0645\u0627\u0646 \u0633\u0646\u064e\u0645\u0636\u0650\u064a \u0645\u064e\u0639\u0627\u064b\"\ud83c\udfbc\ud83d\udc9a",
+            "url": "https://t.co/zqlVhPMDQi",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/zqlVhPMDQi",
+                            "expanded_url": "http://youtu.be/X9OpGl24D7U",
+                            "display_url": "youtu.be/X9OpGl24D7U",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1283,
+            "friends_count": 647,
+            "listed_count": 4,
+            "created_at": "Tue Dec 06 00:18:46 +0000 2011",
+            "favourites_count": 11870,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 75587,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1181718530271653889/yA9NWaZK_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181718530271653889/yA9NWaZK_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/429452565/1451445605",
+            "profile_link_color": "4A913C",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Wed Jul 01 07:30:20 +0000 2020",
+            "id": 1278229434776956928,
+            "id_str": "1278229434776956928",
+            "text": "Tears in my eyes when I see the state kashmir is in right now, may Allah protect kashmir\ud83d\ude2d\ud83d\ude22\ud83d\ude22\n#KashmirBleeds\u2026 https://t.co/Pu5bw1XMUe",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "KashmirBleeds",
+                        "indices": [
+                            92,
+                            106
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/Pu5bw1XMUe",
+                        "expanded_url": "https://twitter.com/i/web/status/1278229434776956928",
+                        "display_url": "twitter.com/i/web/status/1\u2026",
+                        "indices": [
+                            108,
+                            131
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1143585544103841793,
+                "id_str": "1143585544103841793",
+                "name": "kaya gravitter",
+                "screen_name": "kayagravitty",
+                "location": "Brimington, England",
+                "description": "Author | Convert | #bookshark | #blacklivesmatter \nBylines: Huffpost, Yahoo!, etc. \n\ud83d\udc8c Email: gravitterkaya@gmail.com",
+                "url": "https://t.co/i7cShtkF5x",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/i7cShtkF5x",
+                                "expanded_url": "https://linktr.ee/kaya.gravitter",
+                                "display_url": "linktr.ee/kaya.gravitter",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1048,
+                "friends_count": 2959,
+                "listed_count": 0,
+                "created_at": "Tue Jun 25 18:23:35 +0000 2019",
+                "favourites_count": 99,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 66,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1271017313542696960/_TViSIko_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1271017313542696960/_TViSIko_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1143585544103841793/1591869077",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 40,
+            "favorite_count": 75,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 40,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:00:43 +0000 2020",
+        "id": 1283748396289802240,
+        "id_str": "1283748396289802240",
+        "text": "\"The oppressor may sleep, but the oppressed is awake at night calling wpon the one who never Sleeps!\n\nThe oppressed\u2026 https://t.co/pxgFlXSRrG",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/pxgFlXSRrG",
+                    "expanded_url": "https://twitter.com/i/web/status/1283748396289802240",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1019546855087079425,
+            "id_str": "1019546855087079425",
+            "name": "Waaqid Makhdoomi | \u0648\u0627\u0642\u062f \u0645\u062e\u062f\u0648\u0645\u06cc",
+            "screen_name": "waaqidmakhdoomi",
+            "location": "Kashmir\ud83c\udf41",
+            "description": "Photographer",
+            "url": "https://t.co/1EPHfKjDTY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/1EPHfKjDTY",
+                            "expanded_url": "http://instgram.com/waaqid_makhdoomi",
+                            "display_url": "instgram.com/waaqid_makhdoo\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 51,
+            "friends_count": 101,
+            "listed_count": 0,
+            "created_at": "Wed Jul 18 11:38:07 +0000 2018",
+            "favourites_count": 5820,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 31,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1283703783067770882/QebP0ilj_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1283703783067770882/QebP0ilj_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1019546855087079425/1587562262",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Thu Jul 16 13:00:20 +0000 2020",
+        "id": 1283748302111019009,
+        "id_str": "1283748302111019009",
+        "text": "@HamidMirPAK \u06cc\u0627\u0633\u06cc\u0646 \u0645\u0644\u06a9 \u062a\u06a9 \u0631\u0633\u0627\u0626\u06cc \u0646\u06c1\u06cc \u06c1\u06d2 \u0627\u0633 \u06a9\u06cc \u0628\u06cc\u0648\u06cc \u062a\u06a9 \u06a9\u0648 \u0645\u0644\u0646\u06d2 \u0646\u06c1\u06cc \u062f\u06cc\u0627 \u062c\u0627 \u0631\u06c1\u0627 \u0648\u06c1\u0627\u06ba \u06a9\u06cc\u0648\u06ba \u06c1\u0645\u0627\u0631\u06cc \u062d\u06a9\u0648\u0645\u062a \u062e\u0627\u0645\u0648\u0634 \u06c1\u06d2 \u062a\u0645\u0627\u0645 \u062d\u0631\u06cc\u2026 https://t.co/of1uEO4THC",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "HamidMirPAK",
+                    "name": "Hamid Mir",
+                    "id": 213539531,
+                    "id_str": "213539531",
+                    "indices": [
+                        0,
+                        12
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/of1uEO4THC",
+                    "expanded_url": "https://twitter.com/i/web/status/1283748302111019009",
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "ur",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1283739093889953792,
+        "in_reply_to_status_id_str": "1283739093889953792",
+        "in_reply_to_user_id": 213539531,
+        "in_reply_to_user_id_str": "213539531",
+        "in_reply_to_screen_name": "HamidMirPAK",
+        "user": {
+            "id": 988491586672775168,
+            "id_str": "988491586672775168",
+            "name": "Riaz Arain",
+            "screen_name": "RiazArain9",
+            "location": "Kingdom of Saudi Arabia",
+            "description": "Pakistan \ud83c\uddf5\ud83c\uddf0 zindabad love \u2764\ufe0f Pakistan \ud83c\uddf5\ud83c\uddf0",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 181,
+            "friends_count": 505,
+            "listed_count": 0,
+            "created_at": "Mon Apr 23 18:55:34 +0000 2018",
+            "favourites_count": 7143,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 4679,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1281313401193578499/nx7N1iID_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281313401193578499/nx7N1iID_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/988491586672775168/1571078709",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ur"
+    }
+]
